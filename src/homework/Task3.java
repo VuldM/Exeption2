@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
  * Дан следующий код, исправьте его там, где требуется
  */
 public class Task3 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         try {
             int a = 90;
             int b = 3;
@@ -26,7 +26,7 @@ public class Task3 {
     }
 
 
-    public static void printSum(Integer a, Integer b) throws FileNotFoundException {
+    public static void printSum(Integer a, Integer b) {
         System.out.println(a + b);
     }
 
