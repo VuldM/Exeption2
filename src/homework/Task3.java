@@ -1,6 +1,6 @@
 package homework;
 
-import java.io.FileNotFoundException;
+
 
 /**
  * Дан следующий код, исправьте его там, где требуется
