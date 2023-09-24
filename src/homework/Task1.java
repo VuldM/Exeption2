@@ -18,7 +18,7 @@ public class Task1{
 
               }
          catch(Exception e){
-                   System.out.println("Этот символ не надлежащего вида");
+                   System.out.println("Этот символ не надлежащего вида "+ e.getClass());
 
               }
          }
